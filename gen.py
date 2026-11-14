@@ -11,7 +11,7 @@ from pathlib import Path
 
 URL = "https://ftp.apnic.net/stats/apnic/delegated-apnic-latest"
 OUT = Path(__file__).parent / "dist"
-LIST_NAME = "cn_ip_new"          # the router script renames it to cn_ip_cidr after a successful import
+LIST_NAME = "cn_ip_cidr"         # imported directly into the live list
 MIN_V4, MIN_V6 = 3000, 300       # sanity floor (after merging)
 VALID_STATUS = {"allocated", "assigned"}
 
