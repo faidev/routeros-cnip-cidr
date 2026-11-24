@@ -790,6 +790,7 @@ add list=cn_ip_cidr address=2402:8180::/32
 add list=cn_ip_cidr address=2402:8260::/32
 add list=cn_ip_cidr address=2402:8300::/32
 add list=cn_ip_cidr address=2402:8380::/32
+add list=cn_ip_cidr address=2402:8420::/32
 add list=cn_ip_cidr address=2402:85c0::/32
 add list=cn_ip_cidr address=2402:8800::/32
 add list=cn_ip_cidr address=2402:8840::/32
