@@ -74,7 +74,6 @@ add list=cn_ip_cidr address=2001:df6:5d00::/48
 add list=cn_ip_cidr address=2001:df6:6800::/48
 add list=cn_ip_cidr address=2001:df6:f400::/48
 add list=cn_ip_cidr address=2001:df7:1480::/48
-add list=cn_ip_cidr address=2001:df7:2b80::/48
 add list=cn_ip_cidr address=2001:df7:6600::/48
 add list=cn_ip_cidr address=2001:df7:d940::/48
 add list=cn_ip_cidr address=2001:df7:e580::/48
